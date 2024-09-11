@@ -63,5 +63,3 @@ The comparison between **Attrited Customers** and **Existing Customers** shows s
 5. **Utilization Ratio**: Attrited customers have a lower average credit utilization ratio (16%) compared to existing customers (29%), meaning they use less of their available credit.
 
 These differences suggest that **attrited customers generally have lower engagement** in terms of credit usage and transaction activity, which could be key indicators of potential attrition. Further analysis could be done to identify specific thresholds for these metrics that might help predict future attrition.
-
-Would you like to explore any of these insights further or analyze a different aspect of the data?
