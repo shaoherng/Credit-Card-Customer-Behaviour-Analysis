@@ -26,7 +26,9 @@
 1. Attrition rate
 2. Everything else
 
-
+### Dashboard Design
+![image](https://github.com/user-attachments/assets/285e2913-1587-4582-aa7f-7a0a690c7888)
+![image](https://github.com/user-attachments/assets/b7eae210-c07c-4f65-88e6-4df70214c46d)
 
 The dataset appears to be related to bank customers and includes various customer attributes such as age, gender, marital status, education, income category, and credit-related features, along with indicators for customer attrition ("churn"). Here are the key columns:
 
