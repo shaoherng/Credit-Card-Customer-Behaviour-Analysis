@@ -1,5 +1,33 @@
 # Credit-Card-Customer-Behaviour-Analysis
 
+## Type of views in Power BI
+1. Customer Segmentation
+2. Credit Risk Assessment
+3. Customer Attrition and Retention
+
+### Customer Segmentation
+1
+
+### Credit Risk Assessment
+1. Credit limit
+2. Total Revolving balance
+3. Average utilization ratio
+4. Number of months in the bank
+5. Card category
+6. Income category
+7. Total transaction amount
+8. Total transaction count
+9. Total credit utilization ratio = total revolving balance / credit limit
+10. Total spending amount to income ratio = (total transaction amount / income category midpoint) * 100
+11. Impact of demographics on credit risk (slicer on age, education level, marital status)
+12. Proportion of attrited customers in high credit risk
+    
+### Customer Attrition and Retention
+1. Attrition rate
+2. Everything else
+
+
+
 The dataset appears to be related to bank customers and includes various customer attributes such as age, gender, marital status, education, income category, and credit-related features, along with indicators for customer attrition ("churn"). Here are the key columns:
 
 - **CLIENTNUM**: A unique identifier for each customer.
